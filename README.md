@@ -1,29 +1,17 @@
-## Hi, I'm Mrityunjoy 👋🏻 💻
-I'm a developer from Bangladesh who is passionate about making software applications and learning new technologies. I had worked extensively on web development using Python and Django. 
-Find me around the web
-<p align="left">
+<h1 align="left">Hi 👋, This is Mrityunjoy</h1>
+<h3 align="left">I'm a developer from Bangladesh who is passionate about making software applications and learning new technologies. I had worked extensively on web development using Python and Django.</h3>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+## Technologies & Tools
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoyshuvo&theme=vue-dark&hide=php,css,html" alt="mjoyshuvo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoyshuvo&show_icons=true&theme=vue-dark" alt="mjoyshuvo" /></p>
+
+<p align="center">
 <a href="https://twitter.com/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mjoyshuvo" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mrityunjoy-das-955687119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrityunjoy-das-955687119" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mjoyshuvo" height="30" width="30" /></a>
 <a href="https://medium.com/@mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mjoyshuvo" height="30" width="30" /></a>
 </p>
-<!--
-**mjoyshuvo/mjoyshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![](https://komarev.com/ghpvc/?username=mjoyshuvo&label=PROFILE+VIEWS&style=plastic&color=green)
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/mjoyshuvo/mjoyshuvo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoyshuvo&hide=php,html, css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/mjoyshuvo/DjangoWith-Bootstrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjoyshuvo&repo=DjangoWith-Bootstrap&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/mjoyshuvo/mjoyshuvo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoyshuvo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mrityunjoy's GitHub Stats" />
-</a>
-
-
-
