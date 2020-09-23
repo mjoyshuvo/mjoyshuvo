@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/mjoyshuvo/DjangoWith-Bootstrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjoyshuvo&repo=DjangoWith-Bootstrap" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjoyshuvo&repo=DjangoWith-Bootstrap&theme=vue-dark" />
 </a>
 
 
