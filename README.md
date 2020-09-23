@@ -6,7 +6,7 @@
 ## Find me in the web
 
 <p align="left">
-<a href="https://twitter.com/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mjoyshuvo" height="20" width="20" /></a>
+
 <a href="https://linkedin.com/in/mrityunjoy-das-955687119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrityunjoy-das-955687119" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/2928380/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mjoyshuvo" height="20" width="20" /></a>
 <a href="https://medium.com/@mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mjoyshuvo" height="20" width="20" /></a>
