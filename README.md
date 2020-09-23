@@ -1,7 +1,7 @@
 ## Hi, I'm Mrityunjoy 👋🏻 💻
 I'm a developer from Bangladesh who is passionate about making software applications and learning new technologies. I had worked extensively on web development using Python and Django. 
-## Find me around the web
-<p align="center">
+Find me around the web
+<p align="left">
 <a href="https://twitter.com/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mjoyshuvo" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mrityunjoy-das-955687119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrityunjoy-das-955687119" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/mjoyshuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mjoyshuvo" height="30" width="30" /></a>
